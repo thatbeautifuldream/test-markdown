@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-## [Lectures](https://thatbeautifuldream.github.io/route/lectures.html)
+## [Lectures](https://thatbeautifuldream.github.io/test-markdown/routes/lectures.html)
 
 You can use the [editor on GitHub](https://github.com/thatbeautifuldream/test-markdown/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
