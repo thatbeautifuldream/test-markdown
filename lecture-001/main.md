@@ -17,6 +17,12 @@ o/p
 5
 ```
 
+## Notes
+
+![Screenshot from 2022-01-08 00-56-55](https://user-images.githubusercontent.com/28717686/148596554-132124c0-a185-44bd-8642-3c2e48870701.png)
+
+## Solution
+
 ```java
 import java.util.*;
 
