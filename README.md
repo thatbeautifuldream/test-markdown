@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# [ 📀 Tutorial Link](https://drive.google.com/file/d/1oK62Dp0h_kkEwoleKEmJHWwaf9pJm8YH/view?usp=drivesdk)
 
 ## [Lectures](https://thatbeautifuldream.github.io/test-markdown/routes/lectures.html)
 
